@@ -1,0 +1,15 @@
+{
+    "filename": "noisy_gaussian_with_errors.csv",
+    "num_of_const": 5,
+    "x_axis_name": "X axis",
+    "y_axis_name": "Y axis",
+    "has_x_errors": true,
+    "has_y_errors": true,
+    "x_data_column": 0,
+    "x_error_column": 1,
+    "y_data_column": 2,
+    "y_error_column": 3,
+    "monte_carlo_repeats": 10000,
+    "fitted_point_count": 300,
+    "output_sig_figs": 4
+}
